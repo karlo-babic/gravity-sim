@@ -1,0 +1,13 @@
+scale :                     1
+border? (1/0) :             0
+size of sun :               2.5
+stationary sun? (1/0) :     0
+number of objects :         1
+avarage size of objects :   13
+object preview size :       1
+initial spin :              1
+distance from sun :         1
+inertia? (1/0) :            1
+collision? (1/0) :          1
+fragment? (1/0) :           1
+trace :                     18

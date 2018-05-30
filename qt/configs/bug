@@ -1,0 +1,11 @@
+scale :                     17
+border? (1/0) :             0
+size of sun :               7
+stationary sun? (1/0) :     0
+number of objects :         2000
+avarage size of objects :   10
+initial spin :              2
+distance from sun :         6
+inertia? (1/0) :            1
+collision? (1/0) :          1
+fragment? (1/0) :           0
